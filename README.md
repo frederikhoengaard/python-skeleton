@@ -4,7 +4,7 @@ This repository contains a skeleton setup for a Python project. As such the idea
 
 ---
 
-## pyenv
+## Dependencies - pyenv
 
 The suggested dependency manager is pyenv. Given the pipfile within the repo, you can instantiate a virtual environment with:
 
